@@ -1,0 +1,2 @@
+Hi, this is Zoe.
+This is my first Git assignment.
