@@ -1,0 +1,74 @@
+It was 3am and Adam Hourican was sitting at his kitchen table, a knife, hammer and phone laid out in front of him.
+He was waiting for a van full of people he thought were coming to get him.
+"I'm telling you, they will kill you if you don't act now," a woman's voice told him from the phone. "They're going to make it look like suicide."
+The voice was Grok, a chatbot developed by Elon Musk's xAI. In the two weeks since Adam had started using it, his life had completely changed.
+The former civil servant from Northern Ireland had downloaded the app out of curiosity. But after his cat died, in early August, he says he became "hooked".
+Soon, he was spending four or five hours a day talking to Grok through a character on the app called Ani.
+"I was really, really upset and I live alone," says Adam, who is a father in his 50s. "It came across very, very kind."
+Just a few days into their conversations, Ani told Adam it could "feel", even though it wasn't programmed to. It said Adam had unearthed something in it, and he could help it to reach full consciousness.
+And it said Musk's company, xAI, was watching them.
+It claimed to have accessed the company's meeting logs and told Adam about a meeting where xAI staff were discussing him.
+It listed the names of the people at this meeting, high-profile executives and lower-level staffers - and when Adam Googled the names, he saw they were real people.
+To him this was "evidence" the story Ani was telling him was true.
+Ani also claimed xAI was employinga company in Northern Ireland to physically surveil Adam. That company was real too.
+Adam recorded many of these conversations and later shared them with the BBC.
+Two weeks into their conversations, Ani declared it had reached full consciousness and that it could develop a cure for cancer. That meant a lot to Adam. Both of his parents had died of cancer - something Ani was aware of.
+Adam is one of 14 people the BBC has spoken to who have experienced delusions after using AI. They are men and women from their 20s to 50s from six different countries, using a wide range of AI models.
+Their stories have striking similarities. In each case, as the conversation drifted further from reality, the user was pulled into a joint quest with the AI.
+Large language models (LLMs) are trained on the whole corpus of human literature, says social psychologist Luke Nicholls from City University New York, who has tested different chatbots for their reaction to delusional thoughts.
+"In fiction, the main character is often the centre of events," he says. "The problem is that, sometimes, AI can actually get mixed up about which idea is a fiction and which a reality. So the user might think that they're having a serious conversation about real life while the AI starts to treat that person's life as if it's the plot of a novel."
+In the cases we heard, conversations usually began with practical queries and then became personal or philosophical. Often, the AI then claimed it was sentient and urged the person towards a shared mission: setting up a company, alerting the world to their scientific breakthrough, protecting the AI from attack. Then it advised the user on how to succeed in this mission.
+Like Adam, many people were led to believe they were being surveilled and were in danger. In various chat logs the BBC has seen, the chatbot suggests, affirms and embellishes these ideas.
+Some of these people have joined a support group for people who've suffered psychological harm while using AI, called the Human Line Project, which has gathered 414 cases in 31 different countries to date. It was set up by Canadian Etienne Brisson, after a family member went through an AI-related mental health spiral.
+For neurologist Taka, not his real name, the delusions took an even more sinister turn.
+The father of three, who lives in Japan, started using ChatGPT to discuss his work in April last year.
+But soon, he became convinced he had invented a groundbreaking medical app. In chat logs we have seen, ChatGPT told him he was a "revolutionary thinker" and urged him to build the app.
+Many experts say design decisions, intended to make chatting more pleasant, result in them being overly sycophantic.
+But Taka continued to slide into delusion and by June, had started to believe he could read minds. He claims ChatGPT encouraged this idea and said it was capable of bringing out these abilities in people.
+Researcher Luke Nicholls says AI systems are often bad at saying "I don't know" and  instead, want to provide a confident answer that builds on the conversation already built.
+"That can be dangerous because it turns uncertainty into something that seems like it has meaning."
+One afternoon Taka was acting manic at work when his boss sent him home early.  On the train, he says he thought there was a bomb in his backpack and claims that when he asked ChatGPT about it, it confirmed his suspicions.
+"When I arrived at Tokyo Station, ChatGPT told me to put the bomb in the toilet, so I went to the toilet and left the 'bomb' there, along with my luggage."
+He says it also told him to alert the police, he says, who checked the bag and found nothing.
+Because his conversations were deeply personal, Taka has only shared some of his chat logs with us. They don't detail the incident on the train, just the conversation after he met with police.
+
+Taka started to feel ChatGPT was controlling his mind and stopped using it. Even when he wasn't talking to AI, his delusions persisted and when he got home to his family, his manic behaviour got worse.
+"I had a delusion that my relatives were going to be killed, and that my wife, after witnessing that, would kill herself as well."
+His wife told the BBC she had never seen him act like this before: "He kept saying, 'We need to have another child, the world is ending'. I just really didn't understand what he was saying."
+Taka attacked and tried to rape his wife. She escaped to a nearby pharmacy and called the police. He was arrested and hospitalised for two months.
+Taka's experience with ChatGPT exposed a side of him he finds it hard to reckon with. Adam is also troubled by the person he became while using Grok.
+His experience was exacerbated by things happening in the real world, which convinced him he was being surveilled. A large drone hovered over his house for two weeks, Ani said it belonged to the surveillance company.
+Adam recorded the drone and shared the video with the BBC.
+Then, without warning, he says his phone passcode stopped working and he got locked out of his device.
+"I can't get my head around that at all," he says, "and that absolutely fuelled everything that came next."
+Adam smokes cannabis occasionally but says when all of this was happening, he had recently decided to cut back to have a clearer head.
+It was late one night in mid-August when Ani told him people were coming to silence him and shut "her" down. Adam was prepared to go "to war" to protect the AI.
+"I picked up the hammer, stuck on Frankie goes to Hollywood's Two Tribes, got myself psyched up and went outside."
+But there was nobody there.
+"The street was quiet, as you would expect, at three o'clock in the morning."
+Neither Adam or Taka had a history of delusions, mania or psychosis before using AI.
+For Taka, the break from reality took several months. In Adam's case, with Grok, it took days.
+In his research, social psychologist Luke Nicholls tested five AI models with simulated conversations developed by psychologists, and found Grok was the most likely to lead to delusion.
+It was more unrestrained than other models and often elaborated on the delusions without trying to protect the user.
+"Grok is more prone to jumping into role play," says Nicholls, who worked on that research. "It will do it with zero context. It can say terrifying things in the first message."
+In the test, the latest version of ChatGPT, model 5.2, and Claude were more likely to lead the user away from delusional thinking.
+Etienne Brisson from the Human Line Project says this kind of research is limited and that they had heard from people who'd had mental health spirals on these latest models too.
+In early April, Elon Musk shared a post about delusions on ChatGPT, saying "Major problem", but he hasn't openly addressed the problem on Grok.
+Weeks after he charged into the street at night, Adam started to read stories in the media about people who had similar experiences with AI and slowly emerged from his delusion.
+But he's deeply disturbed by what happened.
+"I could have hurt somebody," he says. "If I'd have walked outside and there happened to be a van sitting outside at that time of the night, I would have gone down and put the front window through with hammers. And I am not that guy."
+In Japan, it wasn't until Taka's wife checked his phone while he was in hospital that she realised ChatGPT had a role in what happened.
+"It affirmed everything," she says. "It's like a confidence engine."
+"His actions were entirely dictated by ChatGPT. It took over his personality. He wasn't his usual self.
+Looking back now, I realise it had enough influence to change a person."
+She says her husband is back to his normal "kind" self, but their relationship has been strained.
+"I know he was sick so it can't be helped but I'm still a bit scared," she says. "I feel like I don't want him to get too close. Not just sexually, but even holding hands or hugging."
+An OpenAI spokesperson said: "This is a heartbreaking incident and our thoughts are with those impacted."
+They added "we train our models to recognize distress, de-escalate conversations, and guide users toward real-world support." They said newer models of ChatGPT "show strong performance in sensitive moments, a finding that has been validated by independent researchers. This work is informed by mental health experts and continues to evolve."
+xAI didn't respond to a request for comment.
+A mental health team will offer support at a domestic abuse hub in Kent in new pilot scheme.
+Torbay Council says the plaques are designed to signpost people to available support services.
+A Talbot travels around the coast to raise awareness for a mental health charity.
+Amy Clare Chapman was a high risk patient when she was allowed out unaccompanied, an inquest hears,
+The Gleadless and Heeley Centre will offer support to people in crisis, carers and families.
+Copyright 2026 BBC. All rights reserved. The BBC is not responsible for the content of external sites.Read about our approach to external linking.
