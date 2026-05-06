@@ -1,5 +1,5 @@
 # Python script to scrape an article given the url of the article and store the extracted text in a file
-# Url: https://medium.com/@subashgandyer/papa-what-is-a-neural-network-c5e5cc427c7
+# Url: used instead of original https://weirdopoetry.com/2026/01/12/happiness-comes-from-being-soft/
 
 import os
 import requests
@@ -92,5 +92,4 @@ if __name__ == '__main__':
     save_file(text)
 
     # Instructions to Run this python code
-    # Give url as https://medium.com/@subashgandyer/papa-what-is-a-neural-network-c5e5cc427c7
-    # https://weirdopoetry.com/2026/01/12/happiness-comes-from-being-soft/
+    # url used https://weirdopoetry.com/2026/01/12/happiness-comes-from-being-soft/
