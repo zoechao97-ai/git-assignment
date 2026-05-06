@@ -15,15 +15,20 @@ def get_page():
     global url
 
     # Ask the user to input url
-    url = input("Enter url of a medium article: ")
+    url = input("Enter url of an online article: ")
 
     # handling possible error
-    if not re.match(r'https?://medium.com/', url):
-        print('Please enter a valid website, or make sure it is a medium article')
+    if not re.match(r'https?://', url):
+        print('Please enter a valid website')
         sys.exit(1)
 
-    # Send request to website
-    res = requests.get(url)
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+    }
+
+    res = requests.get(url, headers=headers)
 
     res.raise_for_status()
 
@@ -88,3 +93,4 @@ if __name__ == '__main__':
 
     # Instructions to Run this python code
     # Give url as https://medium.com/@subashgandyer/papa-what-is-a-neural-network-c5e5cc427c7
+    # https://weirdopoetry.com/2026/01/12/happiness-comes-from-being-soft/
