@@ -1,0 +1,95 @@
+# Python script to scrape an article given the url of the article and store the extracted text in a file
+# Url: used instead of original https://weirdopoetry.com/2026/01/12/happiness-comes-from-being-soft/
+
+import os
+import requests
+import re
+import sys
+
+# Import BeautifulSoup library
+from bs4 import BeautifulSoup
+
+
+# function to get the html source text of the medium article
+def get_page():
+    global url
+
+    # Ask the user to input url
+    url = input("Enter url of an online article: ")
+
+    # handling possible error
+    if not re.match(r'https?://', url):
+        print('Please enter a valid website')
+        sys.exit(1)
+
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"
+    }
+
+    res = requests.get(url, headers=headers)
+
+    res.raise_for_status()
+
+    soup = BeautifulSoup(res.text, 'html.parser')
+
+    return soup
+
+
+# function to remove all the html tags and replace some with specific strings
+def clean(text):
+    rep = {"<br>": "\n", "<br/>": "\n", "<li>": "\n"}
+
+    rep = dict((re.escape(k), v) for k, v in rep.items())
+
+    pattern = re.compile("|".join(rep.keys()))
+
+    text = pattern.sub(lambda m: rep[re.escape(m.group(0))], text)
+
+    text = re.sub('\<(.*?)\>', '', text)
+
+    return text
+
+
+def collect_text(soup):
+
+    text = f'url: {url}\n\n'
+
+    para_text = soup.find_all('p')
+
+    print(f"paragraphs text = \n {para_text}")
+
+    for para in para_text:
+        text += f"{para.text}\n\n"
+
+    return text
+
+
+# function to save file in the current directory
+def save_file(text):
+
+    if not os.path.exists('./scraped_articles'):
+        os.mkdir('./scraped_articles')
+
+    name = url.split("/")[-1]
+
+    print(name)
+
+    fname = f'scraped_articles/{name}.txt'
+
+    # write text into file
+    with open(fname, 'w', encoding='utf-8') as f:
+        f.write(text)
+
+    print(f'File saved in directory {fname}')
+
+
+if __name__ == '__main__':
+
+    text = collect_text(get_page())
+
+    save_file(text)
+
+    # Instructions to Run this python code
+    # url used https://weirdopoetry.com/2026/01/12/happiness-comes-from-being-soft/
